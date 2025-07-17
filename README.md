@@ -5,20 +5,21 @@
 problems sourced from instructional textbooks. The benchmark is designed to evaluate the complex reasoning capabilities,
 strong domain knowledge, and advanced calculation skills of LLMs. 
 
-We developed an innovative **evaluation protocol** for a detailed analysis of reasoning abilities. This
-involves instructing LLMs to self-identify and categorize their errors within a predefined set of
-capabilities. This process offers a fine-grained understanding of where the models are falling short.
+We developed an innovative **evaluation protocol** for a detailed analysis of classification abilities. This
+involves instructing LLMs to extract key knowledge information within a predefined set of
+dataset template. This process offers a fine-grained understanding that LLM works as well as a human in annotating the data
+and actually finds out when the humans failed to annotate the data
+.
 
 
 ## Data
 
 
-The SciBench dataset is under dataset/original folder in json file format. Each file is list of dictionary and can be extracted using following scripts.
-Each file stands for one textbook, which is fully elaborated in the paper. 
+The PSCbench dataset is under dataset folder in json file format. Each file is list of dictionary and can be extracted using following scripts.
+Each file stands for one published journal, which is fully elaborated in the paper. 
 
 ```
-subject='atkins'
-with open("./dataset/original/{}.json".format(subject), encoding='utf-8') as json_file:
+with open("./dataset/retroactive/{}.json".format(subject), encoding='utf-8') as json_file:
     problems=json.load(json_file)
 
 ```
@@ -28,16 +29,16 @@ To evaluate our data using LLM, please refer to folder under eval
 
 ## Analysis (Evaluation Protocol)
 
-
+![Alt text](assets/Pipeline.png)
 The evaluation protocol involves analyzing both LLM
-and reference (correct) solutions with the assistance of human annotators to identify error reasons.
-These reasons are then summarized into ten essential scientific problem-solving skills in which LLM
-may face challenges. Subsequently, a LLM verifier is employed to automatically attribute each
-incorrectly answered problem to a lack of a specific skill. The resulting error profiles enable the
+and reference (correct) ground truth with the assistance of human annotators to identify the key information in the literature.
+These reasons are then summarized into 4 categories: Tag, Materials, Fabrication and Properties. Subsequently, a LLM verifier is employed to automatically attribute each
+incorrectly extracted answer into a certain field. The resulting error profiles enable the
 interpretation of the improved skills by certain prompting strategies and direct comparison of various
 strategies.
+
 ### run evaluation protocol
-After running the evaluation part, use the output to run the evaluation protocol. "setting" refers to the experiment setting: zero_nosys, zero, zeroCot, few, fewCot, python, wolfram, which are fully explained under eval folder.
+After running the evaluation part, use the output to run the evaluation protocol. 
 ```
 cd eval
 OPENAI_API_KEY=your_key python ana_error.py --setting your_setting 
