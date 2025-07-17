@@ -1,11 +1,11 @@
 # PSCbench
 
 
-**PSCbench** is a novel benchmark for college-level scientific
-problems sourced from instructional textbooks. The benchmark is designed to evaluate the complex reasoning capabilities,
+**PSCbench** is a novel benchmark for materials science research-level scientific
+dataset curation sourced from published journals. The benchmark is designed to evaluate the complex classification capabilities,
 strong domain knowledge, and advanced calculation skills of LLMs. 
 
-We developed an innovative **evaluation protocol** for a detailed analysis of classification abilities. This
+We developed an innovative **evaluation protocol** for a detailed analysis of classification abilities of leading commercially available Large Language Models. This
 involves instructing LLMs to extract key knowledge information within a predefined set of
 dataset template. This process offers a fine-grained understanding that LLM works as well as a human in annotating the data
 and actually finds out when the humans failed to annotate the data
