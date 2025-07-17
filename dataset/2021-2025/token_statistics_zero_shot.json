@@ -1,0 +1,1744 @@
+{
+  "total_input_tokens": 10059174,
+  "total_output_tokens": 686901,
+  "total_tokens": 10746075,
+  "total_requests": 433,
+  "average_input_tokens_per_request": 23231.35,
+  "average_output_tokens_per_request": 1586.38,
+  "average_total_tokens_per_request": 24817.73,
+  "requests_per_folder": [
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202104482",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202106460",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202106495",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202107125",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202107823",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202108615",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202108944",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202109631",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202109968",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202110139",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202110346",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202112032",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202112553",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202112991",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202113026",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202113367",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202200024",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202200174",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202200431",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202200534",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202201036",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202201193",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202201384",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202203704",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202204396",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202204450",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202204831",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202204880",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202205009",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202205478",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202205507",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202205870",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202206585",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202208793",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202209516",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202210028",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adfm.202210071",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202006753",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202007176",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202007431",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202008091",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202008405",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202008487",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202100009",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202100770",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202100791",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202101590",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202102055",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202102816",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202103231",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202103394",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202103688",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202103770",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202105083",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202105170",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202105539",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202105920",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202105977",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202106118",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202106380",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202106750",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202107211",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202107420",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202107729",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202109348",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202109879",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202110241",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202110482",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202200041",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202200276",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202200320",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202200705",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202200978",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202201681",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202201840",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202202100",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202202301",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202203143",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202208320",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202208431",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202208522",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202210223",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202210836",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202211545",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202212126",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202212258",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202300513",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202301028",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202302752",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202303275",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202303346",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202303665",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202306724",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202308039",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202310710",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_adma.202311970",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_advs.202001466",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_advs.202002718",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_advs.202002860",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_advs.202003359",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_advs.202004092",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_advs.202004662",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_advs.202101367",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_advs.202101418",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_advs.202101856",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_advs.202102648",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_advs.202102845",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_advs.202104848",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_advs.202200242",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202002552",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202002733",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202003382",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202003386",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202003460",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202003489",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202003712",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202003829",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202100022",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202100292",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202100403",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202100529",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202100967",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202101018",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202101045",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202101069",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202101219",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202101416",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202101447",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202101454",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202101539",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202102169",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202102236",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202103151",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202103175",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202103215",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202103236",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202103241",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202103491",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202103567",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202103674",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202103690",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202103933",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202200361",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202200417",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202200537",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202200614",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202200837",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202200867",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202201105",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202201109",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202201344",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202201509",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202203230",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202203898",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202203982",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202204115",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202204192",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202204260",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202204372",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202300382",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202300694",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_aenm.202303941",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202016085",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202016087",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202016703",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202017148",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202100218",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202101868",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202102096",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202102466",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202102538",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202104201",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202112555",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202113749",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202113932",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202114341",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202114588",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202115663",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202116534",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202116602",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202116632",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202201300",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202202012",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202203088",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202203778",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202205012",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202206914",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202208264",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202209464",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202210356",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202210613",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202210970",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202213560",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202216634",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202216668",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202217526",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202218752",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202302462",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202304568",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_anie.202306229",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_cssc.202002707",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_cssc.202201590",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_eom2.12099",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_idm2.12022",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_pip.3489",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_smll.202206310",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_solr.202100219",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_solr.202100663",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1002_solr.202100772",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1007_s12274-021-3286-2",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1007_s12274-021-3600-z",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1007_s12274-022-4135-7",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1007_s40820-020-00559-2",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1007_s40820-021-00602-w",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1007_s40820-021-00675-7",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1007_s40820-021-00688-2",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1007_s40820-021-00763-8",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1007_s40820-022-00842-4",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1007_s40820-022-00964-9",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1007_s40820-022-00992-5",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.chempr.2021.04.002",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.chempr.2021.07.011",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.chempr.2021.08.009",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.joule.2020.11.020",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.joule.2021.02.007",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.joule.2021.02.012",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.joule.2021.04.003",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.joule.2021.04.014",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.joule.2021.06.001",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.joule.2021.07.016",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.joule.2021.12.006",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.joule.2022.02.014",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.joule.2022.03.003",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.joule.2022.05.002",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.joule.2022.05.012",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.joule.2022.06.031",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.joule.2022.12.013",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.joule.2023.02.003",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.matt.2020.10.023",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1016_j.matt.2020.11.008",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acs.nanolett.1c01505",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsami.0c17773",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsami.0c17893",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsami.0c18204",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsami.0c19475",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsami.1c00677",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsami.1c01547",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsami.1c07146",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsami.1c14720",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsami.1c15860",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsami.1c19122",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsami.1c21000",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acscentsci.2c00385",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.0c02210",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.0c02305",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.0c02385",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.0c02406",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.0c02445",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.0c02642",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.0c02656",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c00124",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c00291",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c00325",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c00342",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c00385",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c00443",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c00452",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c00531",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c00620",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c00685",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c00748",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c00794",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c01039",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c01060",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c01186",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c01811",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c01817",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c01878",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c02545",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c02645",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c02718",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.1c02812",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.2c00776",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.2c01661",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.2c01749",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.2c02333",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.2c02378",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsenergylett.3c01385",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsmaterialslett.2c00799",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_acsnano.1c02191",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.0c11563",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.0c12739",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.0c12786",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.0c12802",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.0c13069",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.0c13087",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.1c00757",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.1c00852",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.1c02118",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.1c03032",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.1c03419",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.1c03687",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.1c07200",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.1c07518",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.1c08905",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.1c10842",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.1c12732",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.2c04029",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.2c13307",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1021_jacs.2c13566",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-020-00749-7",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-021-00802-z",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-021-00830-9",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-021-00831-8",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-021-00944-0",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-021-00953-z",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-022-01035-4",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-022-01038-1",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-022-01039-0",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-022-01086-7",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-022-01154-y",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-023-01204-z",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-023-01205-y",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-023-01220-z",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-023-01227-6",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-023-01249-0",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-023-01288-7",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-023-01295-8",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-023-01310-y",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-023-01358-w",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-023-01362-0",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-023-01377-7",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-023-01406-5",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-023-01421-6",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-023-01438-x",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-023-01442-1",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-024-01450-9",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-024-01471-4",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41560-024-01487-w",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41563-022-01390-3",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41563-022-01399-8",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41563-023-01705-y",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41565-021-01010-2",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41565-021-01019-7",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41565-022-01108-1",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41566-021-00829-4",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41566-021-00931-7",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41566-022-00985-1",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41566-022-01111-x",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41566-023-01180-6",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41566-023-01247-4",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41566-024-01381-7",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-021-03285-w",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-021-03406-5",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-021-03518-y",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-021-03964-8",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-022-04604-5",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-022-04872-1",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-022-04978-6",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-022-05268-x",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-022-05346-0",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-023-05825-y",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-023-05847-6",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-023-06207-0",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-023-06208-z",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-023-06610-7",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-023-06637-w",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-023-06745-7",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-023-06784-0",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1038_s41586-023-06892-x",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d0ee02216k",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d0ee03312j",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d0ee03807e",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d0ee03839c",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d0sc06354a",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d0ta10270a",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d0ta10535j",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d0ta10581c",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d0ta10717d",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d0ta11397b",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d2ee03418b",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d3ee00293d",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d3ee00413a",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d3ee00423f",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d3ee02569a",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d3ee02839a",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d3ee03435f",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1039_d3ra06137j",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_sciadv.abb2412",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_sciadv.abc8844",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_sciadv.abe3326",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_sciadv.abe8130",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_sciadv.abg0633",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_sciadv.abg3749",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_sciadv.abj1799",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_sciadv.abj7930",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_sciadv.abk2722",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_sciadv.abo3733",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_sciadv.abo5977",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_sciadv.abo7422",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abb8687",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abd4860",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abf5602",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abf7652",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abh1035",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abh1885",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abh3884",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abi6323",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abj2637",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abl5676",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abm5784",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abm8566",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abn3148",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abn5679",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abn8910",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abo2757",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abp8873",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abq6235",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.abq7652",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.add7331",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.add8786",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.ade3126",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.ade3970",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.ade9463",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.ade9637",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.adf0194",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.adf3349",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.adg3755",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.adi4107",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.adj7081",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.adj8858",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.adj9602",
+      "requests": 1
+    },
+    {
+      "folder": "D:\\PSCbench\\GT\\10.1126_science.adk1633",
+      "requests": 1
+    }
+  ],
+  "timestamp": "2025-07-13 17:55:49"
+}
