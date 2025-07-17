@@ -21,7 +21,6 @@ Each file stands for one published journal, which is fully elaborated in the pap
 ```
 with open("./dataset/retroactive/{}.json".format(subject), encoding='utf-8') as json_file:
     problems=json.load(json_file)
-
 ```
 
 ## Evaluation
