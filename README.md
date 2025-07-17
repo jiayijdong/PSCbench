@@ -11,7 +11,7 @@ capabilities. This process offers a fine-grained understanding of where the mode
 
 
 ## Data
-![Alt text](assets/example.jpg)
+
 
 The SciBench dataset is under dataset/original folder in json file format. Each file is list of dictionary and can be extracted using following scripts.
 Each file stands for one textbook, which is fully elaborated in the paper. 
@@ -27,7 +27,7 @@ with open("./dataset/original/{}.json".format(subject), encoding='utf-8') as jso
 To evaluate our data using LLM, please refer to folder under eval
 
 ## Analysis (Evaluation Protocol)
-![Alt text](assets/pipeline.jpg)
+
 
 The evaluation protocol involves analyzing both LLM
 and reference (correct) solutions with the assistance of human annotators to identify error reasons.
