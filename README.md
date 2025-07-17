@@ -31,7 +31,7 @@ To evaluate our data using LLM, please refer to folder under eval
 ![Alt text](assets/Pipeline.png)
 The evaluation protocol involves analyzing both LLM
 and reference (correct) ground truth with the assistance of human annotators to identify the key information in the literature.
-These reasons are then summarized into 4 categories: Tag, Materials, Fabrication and Properties. Subsequently, a LLM verifier is employed to automatically attribute each
+These reasons are then summarized into 4 categories: **Tag, Materials, Fabrication and Properties**. Subsequently, a LLM verifier is employed to automatically attribute each
 incorrectly extracted answer into a certain field. The resulting error profiles enable the
 interpretation of the improved skills by certain prompting strategies and direct comparison of various
 strategies.
@@ -46,10 +46,12 @@ OPENAI_API_KEY=your_key python ana_error.py --setting your_setting
 ## Citation
 If you find our paper useful, please cite our paper
 ```
-@inproceedings{wang2024scibench,
-author = {Wang, Xiaoxuan and Hu, Ziniu and Lu, Pan and Zhu, Yanqiao and Zhang, Jieyu and Subramaniam, Satyen and Loomba, Arjun R. and Zhang, Shichang and Sun, Yizhou and Wang, Wei},
-title = {{SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models}},
-booktitle = {Proceedings of the Forty-First International Conference on Machine Learning},
-year = {2024},
+@misc{dong2024pscbench,
+  author = {Dong, Jiayi and Huang, Zijian and Yao, Yu and Shen, Zhichao and Liu, Junkai and Tong, Yiushun and Tsai, Chu-Yen and Duan, Haoxiang and Yang, Wenxin and Gong, Ming and Xu, Wei and Kundu, Arnesh and Zhang, Ying and Huang, Joshua and Tong, Xinyang and Yeh, Eric and Zhu, Yingke and Ng, Charlotte and Du, Yilun and Li, Ju and Schwalbe-Koda, Daniel and Yang, Yang},
+  title = {{PSCBENCH: A Benchmark for Large-Scale Automated Knowledge Extraction and Data Curation in Perovskite Solar Cell Literature}},
+  note = {Preprint},
+  year = {2024},
+  url = {https://arxiv.org/abs/XXXX.XXXXX}  
 }
+
 ```
